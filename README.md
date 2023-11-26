@@ -1,2 +1,2 @@
 # Rahul-s-Chatbot
-porfolio chatbot 
+portfolio chatbot to showcase your skills
